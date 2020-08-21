@@ -1,1 +1,1 @@
-# databases-and-sql-for-data-science
+# Databases and SQL for Data Science
